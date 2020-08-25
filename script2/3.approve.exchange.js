@@ -8,7 +8,7 @@ var abi = '[{"inputs":[{"internalType":"string","name":"name","type":"string"},{
 let web3 = new Web3(new Web3.providers.HttpProvider("http://123.57.233.34:8090"));
 // the address that will send the test transaction
 const addressFrom = '0x661B5421B81Cfa009D6b919362687f62B3B3Cb8b'
-const exchange_addr = '0x05Ad72ee3F659F9D529104F7072EcF29Ebe37D7e'
+const exchange_addr = '0x99674eb9a2BA9AD5c203EA47e2766A6332Fb2a67'
 const privKey = "a881063ab6c64c08f61829104ab01e7eb1cf16cd23884c8cf4da6194a2e8a5ec"
 // the exchange contract address
 // erc20 token address
